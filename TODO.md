@@ -1,0 +1,3 @@
+- [x] Modify main.py to use convex hull for bounding boxes and add solidity filter
+- [x] Run the detection script to generate updated detected images
+- [ ] Verify the bounding boxes in the detected images
