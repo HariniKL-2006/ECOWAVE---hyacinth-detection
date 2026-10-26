@@ -1,0 +1,1 @@
+vegetation_sample.png is a synthetic image for pipeline smoke testing, not a real field photo and not evidence of real-world detection accuracy. Add permissioned field images with labels and keep evaluation images separate from training images.\n
